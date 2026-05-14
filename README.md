@@ -14,7 +14,7 @@ using ensemble ML models, and identifying rental investment opportunities.
 - Median payback period across the market: ~19.5 years
 
 ## Stack
-Python · Pandas · Scikit-learn · XGBoost · SHAP · Matplotlib · Seaborn
+Python · Pandas · Scikit-learn · XGBoost · Matplotlib · Seaborn
 
 ## Data
 Real Barcelona housing data provided as part of a university master's program.
